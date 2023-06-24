@@ -259,7 +259,7 @@ key2:value2,
 
 ### Interested to learn more about Dictionaries?
 
-For additional practice on dictionaries, visit: https://www.w3schools.com/python/python\_dictionaries.asp
+For additional practice on dictionaries, visit: https://www.w3schools.com/python/python_dictionaries.asp
 
 ### Let's Practice
 
